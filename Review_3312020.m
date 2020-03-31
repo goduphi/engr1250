@@ -26,5 +26,5 @@ CellArrayExampleValue = CellArrayExample{2};
 % Extend CellArrayExample to include a matrix of length 3 as the 4th
 % element and show how you would access the 3rd element of the matrix
 CellArrayExampleExtended = { 34 'This is a string' 3.4 [ 1 2 3 ] };
-CellArrayExampleExtendedValue = CellArrayExampleExtended{4}(2);
+CellArrayExampleExtendedValue = CellArrayExampleExtended{4}(3);
 
