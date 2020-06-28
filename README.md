@@ -1,6 +1,6 @@
 # Matlab code for Engineering 1250
-### University Tutorial & Supplemental Instruction
 ### The University of Texas at Arlington
+#### University Tutorial & Supplemental Instruction  
 
 - All of the provided code is meant for students from ENGR1250 to try out, break, and recreate.  
 - Students are highly encouraged to try and understand all of the code from the SI Sessions and try and break, or even improve them.  
